@@ -14,7 +14,7 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "apollo-link-context": "^1.0.19",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "citation-js": "^0.5.0-alpha.5",
     "dotenv": "^8.2.0",
     "graphql-tag": "^2.10.3",
