@@ -26,7 +26,7 @@
     "lodash": "^4.17.19",
     "moment": "^2.29.1",
     "node-downloader-helper": "^1.0.12",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "p-all": "^2.1.0",
     "p-each-series": "^2.1.0",
     "p-map": "^4.0.0",
