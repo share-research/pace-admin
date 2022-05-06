@@ -17,7 +17,7 @@
     "express-session": "^1.17.0",
     "fs-extra": "^9.0.0",
     "graphql": "^15.5.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
     "passport": "^0.4.1",
     "passport-keycloak-oauth2-oidc": "^1.0.3",
