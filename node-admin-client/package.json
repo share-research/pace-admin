@@ -12,7 +12,7 @@
   "dependencies": {
     "@apollo/client": "^3.4.9",
     "@keycloak/keycloak-admin-client": "^15.0.2",
-    "cross-fetch": "^3.1.4",
+    "cross-fetch": "^3.1.5",
     "dotenv": "^10.0.0",
     "graphql": "^15.5.1",
     "keycloak-admin": "^1.14.22",
