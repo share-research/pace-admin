@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "citation-js": "^0.5.1",
     "dotenv": "^8.2.0",
-    "got": "^11.3.0",
+    "got": "^11.8.5",
     "graphql": "^15.1.0",
     "graphql-tag": "^2.10.3",
     "jsonlines": "^0.1.1",
